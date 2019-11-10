@@ -145,7 +145,8 @@ Availability of submissions and announcement order
 Submissions to arXiv are typically made public Sunday through
 Thursday, with no announcements Friday or Saturday. Check the [current
 time](https://arxiv.org/localtime) at the arXiv main site, with the
-amount of time remaining before the deadline.
+amount of time remaining before the deadline. 
+Submissions will be entered in the announcement listings in order of receipt.
 
 
 
